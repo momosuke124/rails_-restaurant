@@ -1,1 +1,1 @@
-# rails_restaurant
+# Railsでレストラン検索アプリを作る
