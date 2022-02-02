@@ -1,1 +1,1 @@
-# rails_-restaurant
+# rails_restaurant
