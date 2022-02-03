@@ -1,0 +1,6 @@
+# rufo setting
+
+align_case_when true
+align_chained_calls true
+parens_in_def :false
+trailing_commas :false
